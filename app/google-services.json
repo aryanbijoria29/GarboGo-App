@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "206600533266",
+    "firebase_url": "https://ecobin-8949f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ecobin-8949f",
+    "storage_bucket": "ecobin-8949f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206600533266:android:b8b9e35ae33b089c76efcb",
+        "android_client_info": {
+          "package_name": "com.celes.garbogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206600533266-qoognm8f5hbm1f9npvj49m4erkfk308v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-A7YT19lW38qVmd3m9pKFbbBBHIA6T4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206600533266-qoognm8f5hbm1f9npvj49m4erkfk308v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
